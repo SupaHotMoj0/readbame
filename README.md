@@ -1,6 +1,6 @@
 
 
-# <img src="animated/rabbit.gif" height="30" /> Hey, I'm Vishnu Sivan <img src="animated/hands.gif" height="30" />
+# <img src="animated/rabbit.gif" height="30" /> Hey,  <img src="animated/hands.gif" height="30" />
 
 <p align="center">
   <img src="codemaker.gif" height="175px" /> 

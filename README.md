@@ -1,23 +1,4 @@
-<img src="codemaker.png" alt="Vishnu Sivan" />
 
-<p align="left">
-  </a>
-  <a href="https://www.hackerrank.com/codemaker2015">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
-  </a>
-  <a href="https://codemaker2015.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-50+-lightgrey?color=lightgrey&logo=medium">
-  </a>
-  <a href="https://github.com/codemaker2015?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-2.5K-blue?color=blue&logo=linkedin">
-  </a>
-  <a href="https://instagram.com/codemaker2015">
-    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-100-blue?color=orange&logo=instagram">
-  </a>
-</p>
 
 # <img src="animated/rabbit.gif" height="30" /> Hey, I'm Vishnu Sivan <img src="animated/hands.gif" height="30" />
 
@@ -27,7 +8,6 @@
 
 ## 🚀 About Me
 
-#### **Vishnu Sivan**, Immersive Tech Lead, Game Developer, Mobile App Developer, Full Stack Developer, Web Developer
 
 <img src="animated/light_1.gif" height="20px" />  Seasoned professional, forward looking software engineer with 5+ years of experience in creating and executing innovative solutions in immersive field to enhance business productivity. Highly experienced in AR, VR, gesture related technologies. Completed 10+ client projects and worked on 50+ POCs in various technologies. Consistently recognized for the contributions in immersive sector and web / mobile app developments. Skilled at coordinating cross functional teams in a fast paced deadline driven environment.
 

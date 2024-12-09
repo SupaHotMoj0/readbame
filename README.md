@@ -1,11 +1,6 @@
 <img src="codemaker.png" alt="Vishnu Sivan" />
 
 <p align="left">
-  <a href="https://github.com/codemaker2015/codemaker2015">
-    <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
-  </a>
-  <a href="https://stackoverflow.com/users/7103882">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://www.hackerrank.com/codemaker2015">
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
